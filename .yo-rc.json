@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.test.second"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "anotherTestTwo",
+    "packageName": "com.test.second",
+    "packageFolder": "com/test/second",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmYzOTNhZTAyZDJhMzliOTljNWY3NmRiMWJhOGZmY2IwM2I5NWU1YWI5MGM3NThiZTI1M2Y0MjZhNjZjYjMyMmU2YmNmNjc4OTVjMGU4OTY4ZjY0NDE1NWNhNTQ1Yzk1NmY4MWMwYTYxYjU2NDY1Mzc3OGU2OTMyNmMzMmJhNzc=",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "primary",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-swagger-cli",
+        "version": "3.0.1"
+      }
+    ],
+    "enableTranslation": false
+  }
+}

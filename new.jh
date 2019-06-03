@@ -1,0 +1,3 @@
+entity Department {
+	departmentName String required
+}
